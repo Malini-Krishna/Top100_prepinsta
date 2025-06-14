@@ -1,1 +1,1 @@
-This repository contains top 100 coding questions from prepinsta that I have practiced 
+This repository contains some of the basic programs in python
